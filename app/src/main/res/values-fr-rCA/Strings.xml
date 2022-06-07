@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Android Labs</string>
+    <string name="Header">Lab Deux GUI</string>
     <string name="Hello_message">Salut le monde!</string>
     <string name="ButtonText">Je suis un button</string>
+    <string name="CheckBoxText">Regarde ca</string>
+    <string name="SwitchText">Interrupteur Allume/ Eteinte</string>
+    <string name="ToastMessage">Plus d\'information ici</string>
+    <string name="SnackbarOnMessage">Allume</string>
+    <string name="SnackbarOffMessage">Etiente</string>
+    <string name="Undo">Annuler</string>
 </resources>
